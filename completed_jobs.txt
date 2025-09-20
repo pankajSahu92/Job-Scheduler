@@ -1,0 +1,5 @@
+3|Install  Updates|1
+1|Play Video|3
+2|Run Antivirus|2
+5|RUN ANTIVIRUSS|1
+4|Run Game|4
