@@ -10,3 +10,5 @@ It allows the user to:
 - Automatically log completed jobs to a file
 
 The project demonstrates core C++ concepts like **classes, queues, priority queues, and file handling**.
+</br>
+Author: Pankaj Sahu
